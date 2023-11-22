@@ -1,5 +1,7 @@
 ## The task is currently active on https://ttt-assignment-lake.vercel.app/
 
+## Initiating the Application
+
 Please download and extract the file, or alternatively, execute the command git clone https://github.com/shreyamalik708/ttt-assignment/.
 
 Once in the project directory, execute these three commands sequentially to initiate the development server.
