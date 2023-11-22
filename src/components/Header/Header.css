@@ -1,0 +1,60 @@
+nav {
+    display: flex;
+    flex-direction: horizontal;
+    justify-content: space-between;
+    background-color: black;
+    width: 100vw;
+    height: 85px;
+}
+
+.rightside-header {
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.leftside-header {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo {
+    color: white;
+    width: 75px;
+    height: 75px;
+    background-image: url(https://asset.brandfetch.io/idbHZbvDnq/idyVYzyWqK.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 10px;
+
+}
+
+.header-straight-line {
+    margin-left: 10px;
+    background-color: burlywood;
+    width: 2px;
+    height: 80px;
+}
+
+.btn {
+    background-color: burlywood;
+    height: 46px;
+    width: 127px;
+    border-radius: 27px;
+    font-size: 18px;
+}
+
+.rightside-header-text {
+    margin-left: 15px;
+    letter-spacing: 3px;
+}
+
+.header-image {
+    background-image: url(https://static.nycgovparks.org/images/photo_gallery/full_size/17976.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100vw;
+    height: 40vh;
+}
