@@ -1,26 +1,70 @@
-## The task is currently active on https://ttt-assignment-lake.vercel.app/
-## Initiating the Application
-Please download and extract the file, or alternatively, execute the command git clone https://github.com/shreyamalik708/ttt-assignment/.
+# Getting Started with Create React App
 
-Once in the project directory, execute these three commands sequentially to initiate the development server.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## npm install
-## npm install @mui/icons-material @mui/material @emotion/styled @emotion/react // for installing react MUI
-## npm start
-Operate the application in development mode. Access http://localhost:3000 through your browser to preview it.
+## Available Scripts
 
-## Explaination
-## Components:
-Within './src/components', three components have been established to enhance organization and readability, facilitating the potential for component reuse:
+In the project directory, you can run:
 
-i) Navbar ii) Profile iii) Feed
+### `npm start`
 
-The Profile component incorporates Material UI for various icons such as Star, Thumb (for Like), Favourite, and Total Views.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Following that, the primary component, Feed, employs the useState hook for efficient state management and data storage within variables.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-The webpage is designed to be responsive, offering compatibility across multiple devices, ensuring a seamless user experience.
+### `npm test`
 
-Throughout the project, React Material UI is consistently used for icon implementation.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Moreover, the useEffect hook is employed to ensure the rendering of functions in the browser, encompassing features like post liking and unliking.
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
