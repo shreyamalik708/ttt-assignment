@@ -4,9 +4,9 @@ Please download and extract the file, or alternatively, execute the command git 
 
 Once in the project directory, execute these three commands sequentially to initiate the development server.
 
-## npm install
-## npm install @mui/icons-material @mui/material @emotion/styled @emotion/react // for installing react MUI
- ## npm start
+### npm install
+### npm install @mui/icons-material @mui/material @emotion/styled @emotion/react // for installing react MUI
+ ### npm start
 Operate the application in development mode. Access http://localhost:3000 through your browser to preview it.
 
 ## Explaination
